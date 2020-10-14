@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://github.com/ravichas/AMPL/tree/master/atomsci/ddm/docs/build/html
+https://github.com/ravichas/AMPL/blob/master/atomsci/ddm/docs/build/html/index.html
 
 You can use the [editor on GitHub](https://github.com/ravichas/ravichas.githup.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
