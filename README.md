@@ -4,6 +4,8 @@
 
 ---
 
+- [AMPL Document](/html)
+
 
 
 
